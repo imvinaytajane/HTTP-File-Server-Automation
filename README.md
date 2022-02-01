@@ -1,5 +1,5 @@
 # HTTP-Server
-Python Program to Automate Clint side for http server App
+Python Program to Automate Clint side for http server App on pc
 
 App Link For phone : https://play.google.com/store/apps/details?id=slowscript.httpfileserver
 
