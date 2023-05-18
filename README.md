@@ -1,4 +1,4 @@
-# HTTP File Server Automation
+# HTTP File Server Client
 
 This Python program automates the client-side interaction with an HTTP server application on a PC. It is specifically designed to work with the "HTTP File Server" Android app, which can be found on the Google Play Store: [HTTP File Server on Google Play Store](https://play.google.com/store/apps/details?id=slowscript.httpfileserver).
 
